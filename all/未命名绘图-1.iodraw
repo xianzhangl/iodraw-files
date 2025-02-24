@@ -13,7 +13,7 @@
         <mxCell id="AMJk3dn0mWqA0Hn2T5FW-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Iterable&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AMJk3dn0mWqA0Hn2T5FW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="AMJk3dn0mWqA0Hn2T5FW-3" value="Interface" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
