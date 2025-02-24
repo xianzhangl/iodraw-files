@@ -97,7 +97,7 @@
         <mxCell id="AMJk3dn0mWqA0Hn2T5FW-33" value="&lt;font size=&quot;3&quot;&gt;TreeMap&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AMJk3dn0mWqA0Hn2T5FW-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AMJk3dn0mWqA0Hn2T5FW-34" value="Properties" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
